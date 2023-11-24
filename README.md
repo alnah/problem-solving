@@ -52,6 +52,14 @@ Mindset inputs for problem solving and good outputs.
 	- type: what are the data types form?
 	- scope: variables used are global, local? is it an inner function?
 
+## Start to resolve simple and impacting problems first
+In a big project you just don't have to solve every problem at once. What to do then? There's plenty of problems that are easier with more impact on usability.  
+
+- which problems we're attacking seriously right now
+- which problems we're just doing something that kind of sucks but it's good enough for now
+
+Making decisions later allows a more knowledgeable you/person, with more context, to tackle your problems. Contrary to popular belief, good craftsmanship isn't just about immediately addressing problems but knowing when to address problem them for optimal results.
+
 ## Problems
 - exceptions and error messages are your friends!
 - they are opportunies to grow

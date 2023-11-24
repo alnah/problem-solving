@@ -51,3 +51,24 @@ Mindset inputs for problem solving and good outputs.
 	- return value or side-effect: is it going to return a value or not?
 	- type: what are the data types form?
 	- scope: variables used are global, local? is it an inner function?
+
+## Problems
+- exceptions and error messages are your friends!
+- they are opportunies to grow
+- this is a normal part of programming
+- it's pretty much all about debugging
+- did you tell computer what to do incorrectly? (Syntax)
+- did you tell computer to do the wrong thing? (Logic)
+- most beginners assume it's an implementation problem
+- usually it's really an algorithm problem
+
+## Debugging
+- the best way to debug is to not have bugs and program defensively
+- bad code can be googled
+- bad algorithms usually cannot...
+- what are you not understanding?
+- what tools can you use?
+- DON'T start with a solution, you're gonna fuck you up.
+- your assumptions might be not true!
+- start by truly understanding the problem.
+- look up to find a tool to help you.
